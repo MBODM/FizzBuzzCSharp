@@ -1,4 +1,4 @@
 # FizzBuzzCSharp
 Simple FizzBuzz example in C#
 
-There´s not much more to say here. It´s just a _simple FizzBuzz example in C#_. :wink:
+Tiny .NET 6 project, written in Visual Studio 2022. There´s not much more to say here. It´s just a "simple FizzBuzz example in C#". :wink:
